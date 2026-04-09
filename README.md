@@ -62,4 +62,4 @@ ORDER BY country;
 ---
 
 ## 🙌 Acknowledgement
-Chinook Database (Sample dataset)
+Chinook Database (Sample relational database for SQL practice)
